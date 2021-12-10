@@ -1,0 +1,2 @@
+INSERT INTO User(id, name, address, email, telephone) VALUES (nextval('hibernate_sequence'),'teste 1', 'Av bernando vieira', 'emailteste1', '81985781620');
+INSERT INTO User(id, name, address, email, telephone) VALUES (nextval('hibernate_sequence'),'teste 2', 'Av bernando vieira', 'emailteste2', '81998989898');
